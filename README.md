@@ -1,6 +1,3 @@
-<!--
-**karishma-ml/Karishma-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Karishma
 Python Developer | AI/ML Engineer 
 
@@ -14,5 +11,3 @@ Python Developer | AI/ML Engineer
 ![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
 ![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
-
--->
